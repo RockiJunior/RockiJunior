@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="./img/IMG_20200217_230801_800.jpg" height="300" weight="300"/>
+<img src="./img/portada.jpeg" height="300" weight="300"/>
 
 <div style="padding: 20px 0">
     <h1> FULL STACK DEVELOPER </h1>
