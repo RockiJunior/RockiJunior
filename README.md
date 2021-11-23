@@ -14,10 +14,12 @@
     <h1> ¿QUÉ ESTOY HACIENDO?</h1>
     <p style="font-size: 20px">
     - Aún estoy cursando el bootcamp de henry, y me encuentro finalizando la última etapa, a punto de empezar mi búsqueda laboral, para poder insertarme en un trabajo en el cual pueda aportar todos mis conocimientos, y crecer junto con el equipo que me requiera (realmente entusiasmado!)
-
+    - Trabajamos y finalizamos un proyecto en un lapso de 3 semanas que consta de una aplicacion web para comprar y promocionar zapatos y zapatillas Premium de manera online.
+        Integramos servicios y librerias como Mercado Pago, Multer-Cloudinary, Material UI, Json Web Token, Node.js, express, PostgreSQL, Sequelize, React-Redux, CSS, HTML. 
+    - Realizamos Deploy del Backend en Heroku, y Vercel para el Frontend. Aqui el enlace al deploy: https://drops.vercel.app/
     - Con el equipo grupal del proyecto final del bootcamp, realizamos un App para vender tickets de Cines
     Ésta aplicacion, muestra las peliculas relevantes y un catálogo de todo lo que hay disponible para ver.
-    Aún está en desarrollo, y nuestro equipo esta muy feliz y entusiasmado de poder finalizarlo
+    Aún está en desarrollo, y nuestro equipo esta muy feliz y entusiasmado de poder finalizarlo.
 </div>
 
 <div style="padding: 20px 0">
