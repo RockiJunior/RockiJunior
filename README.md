@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-<img src="./img/portada.jpeg" height="300" weight="300"/>
+<img src="./img/portada.jpeg" height="300" weight="100%"/>
 
 <div style="padding: 20px 0">
     <h1> WHO AM I ?</h1>
     <div style="text-align: center;">
-        <img src="./img/perfil.jpeg" height="150" style="border-radius: 50%;"/>
+        <img src="./img/perfil.jpeg" height="150" width="150" style="border-radius: 50%"/>
     </div>
     <p style="font-size: 20px">My full name is Gabriel Sebastián Villarroel. I am a semi-senior Fullstack Web Developer with approximately 3 and a half years of experience. My first year of my education and experience as a programmer was of self-taught education and then continued with 3 years of professional experience. During the initial months of my self-directed learning, I engaged in Udemy courses and practiced algorithms with TypeScript for about six months. Subsequently, I enrolled in the Soy Henry Bootcamp for 4-5 months, where I worked on both individual and group projects, developing Single Page Applications (SPAs).
     <br/>
